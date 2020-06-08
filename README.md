@@ -1,4 +1,4 @@
-# Maquetus boilerplate
+# HBS boilerplate
 
 Boilerplate destinado a generar el HTML, CSS, JS y los assets asociados para entregar una maquetación web.
 
@@ -19,8 +19,8 @@ Boilerplate destinado a generar el HTML, CSS, JS y los assets asociados para ent
 
 ## Descarga
 
-1. Descargamos `git clone https://github.com/javipuche/maquetus-boilerplate.git`.
-2. Entramos en el proyecto `cd maquetus-boilerplate`.
+1. Descargamos `git clone https://github.com/javipuche/hbs-boilerplate.git`.
+2. Entramos en el proyecto `cd hbs-boilerplate`.
 3. Instalamos dependencias `npm install`.
 
 ## Uso
